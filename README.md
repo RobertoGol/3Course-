@@ -12,4 +12,5 @@
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/hyde/stargazers)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol&show_icons=true&theme=chartreuse-dark)
