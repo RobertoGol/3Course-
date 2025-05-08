@@ -1,4 +1,4 @@
-
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 <h1 align="center">3Course-</h1> 
 <h3 align="center">"You will never learn" - is the canonical phrase of Geralt of Rivia.</h3>
@@ -10,8 +10,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol&show_icons=true&theme=chartreuse-dark)
-
+![image title](https://rushter.com/counter.svg)
 
 
 | [![Course I]([https://www.example.com](https://github.com/RobertoGol/1Course-))]  | [![Course II]([https://www.example.com](https://github.com/RobertoGol/2Course-))] |
