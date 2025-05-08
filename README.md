@@ -10,8 +10,6 @@ Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
-
 
 | [![Course I]([https://www.example.com](https://github.com/RobertoGol/1Course-))]  | [![Course II]([https://www.example.com](https://github.com/RobertoGol/2Course-))] |
 | ***[YouHere]***  |
