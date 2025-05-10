@@ -11,6 +11,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-RogertoGol&abbreviated=true)
 
 
-| [![Course I]([https://www.example.com](https://github.com/RobertoGol/1Course-))]  | [![Course II]([https://www.example.com](https://github.com/RobertoGol/2Course-))] |
-| ***[YouHere]***  |
-| [![Course IV]([https://www.example.com](https://github.com/RobertoGol/4Course-))] | [![Course V]([https://www.example.com](https://github.com/RobertoGol/5Course-))]  |
+| [![Course I](https://github.com/RobertoGol/1Course-))]  |  [![Course II](https://github.com/RobertoGol/2Course-))]  |
+|  ***[YouHere]***   |
+| [![Course IV](https://github.com/RobertoGol/4Course-))] || [![Course V](https://github.com/RobertoGol/5Course-))]  |
