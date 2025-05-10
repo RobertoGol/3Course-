@@ -1,4 +1,4 @@
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+
 
 # 3Course #
 ## "You will never learn" - is the canonical phrase of Geralt of Rivia. ##
